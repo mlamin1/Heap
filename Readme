@@ -1,0 +1,27 @@
+Muniru Lamin
+02/21/2019
+COSC Lab-3
+
+This program was created to test different arrays for Heap sort. the program contain only one cpp file which is my main.cpp file. It has all my functions that sorts the array and my main that runs the program. The program is user friendly. It asks user for type of array they would like to test, then it will ask user for size of array then it will give the run time and then ask user which type of print they would like to see.
+
+
+1.I approach the problem by using your algorithm to start up my heap sort, then I created a user friendly main where different arrays are tested.
+
+
+2.The theorectical time complexity of my heap sort algorithm is: best case: Big Omega(n log(n)), worst case: Big O(n log(n)).
+
+
+3.See graph and output for test of program.
+
+
+
+4.Heap Sort is so fast the timing was amazing. I tried up to 5,000,000 elements in the array and it took about 2 seconds to run.
+
+
+5.See graph for data.
+
+
+6.The sort is fast in all cases not much varies. I tried 4 different arrays, and made them as large as 5,000,000 elements and they all finished roughly around 2 seconds.
+
+
+7.My code could be improve by encapsulating my code more and not having everything in my  main. it will make my code better if i wasn't including everything in the main.cpp file. Using a struct was a good start but I couldve Used a class and have my heap functions fall under the class.
